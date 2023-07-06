@@ -1,4 +1,4 @@
-Результат можно посмотреть [по ссылке](https://todo-app-shabalinyakov.amvera.io)
+Результат можно посмотреть [по ссылке](https://todos-app-shabalinyakov.amvera.io)
 
 - Логин руководителя: `ivan_ivanov` пароль: `123qwerty`
 - Логин подчинённого: `petrov_petr` пароль: `123qwerty`
