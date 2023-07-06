@@ -1,0 +1,17 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compose:build": "docker-compose up --build",
+    "compose:up": "docker compose up -d",
+    "compose:stop": "docker compose stop",
+    "compose:rm": "docker compose rm",
+    "compose:migrate": "docker-compose run --rm todo-app yarn migrate",
+    "compose:seed": "docker-compose run --rm todo-app yarn seed",
+    "compose:rollback": "docker-compose run --rm todo-app yarn rollback"
+  },
+  "author": "",
+  "license": "ISC"
+}
