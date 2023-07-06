@@ -1,7 +1,7 @@
 Проект можно посмотреть [по ссылке](https://todo-app-shabalinyakov.amvera.io)
 
 - Логин руководителя: `ivan_ivanov` пароль: `123qwerty`
-- Логин подчинённого: `petrov_petr` парол: `123qwerty`
+- Логин подчинённого: `petrov_petr` пароль: `123qwerty`
 
 `git clone --recurse-submodules https://github.com/ShabalinYakov/todo-app.git`
 
