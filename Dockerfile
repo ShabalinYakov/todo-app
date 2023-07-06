@@ -25,6 +25,6 @@ RUN yarn install --frozen-lockfile
 COPY server /app
 COPY --from=client /app/client/dist /app/build/client
 
-EXPOSE 3030
+EXPOSE 8080
 
 CMD [ "yarn", "start" ]
